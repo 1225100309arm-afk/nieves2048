@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Pruebas del Sistema - Punto de Venta Dolores
+#*Nieves  2048
 
 #Motor_2048
 <img width="1892" height="970" alt="Captura de pantalla 2026-10-30 095921" src="https://github.com/user-attachments/assets/563f1f61-867b-4d9f-ba4e-68e03bc0ce6e" />
