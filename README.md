@@ -1,6 +1,16 @@
 <<<<<<< HEAD
 # Pruebas del Sistema - Punto de Venta Dolores
 
+#Motor_2048
+<img width="1892" height="970" alt="Captura de pantalla 2026-10-30 095921" src="https://github.com/user-attachments/assets/563f1f61-867b-4d9f-ba4e-68e03bc0ce6e" />
+
+Coregido
+<img width="1516" height="1092" alt="Captura de pantalla 2026-10-30 100049" src="https://github.com/user-attachments/assets/7e10d4a0-d8af-4d04-9b5b-a9a051a78c65" />
+
+grid_test
+<img width="1647" height="1168" alt="Captura de pantalla 2026-10-30 094540" src="https://github.com/user-attachments/assets/68552e02-0065-47c6-9ec1-fd77ea99cc61" />
+
+
 ## Descripción
 Este repositorio contiene el código fuente y las evidencias de las pruebas realizadas para el sistema de punto de venta.
 
@@ -24,11 +34,6 @@ Este repositorio contiene el código fuente y las evidencias de las pruebas real
 * **Evidencia:**  
   ![Naranja](capturas/naranja.png)
 
-### 4. Vista de Vainilla (Desglose de Monto)
-* **Descripción:** Verificación del cálculo de totales y registros almacenados correctamente en la base de datos local.
-* **Resultado:** Exitoso.
-* **Evidencia:**  
-  ![Vainilla](capturas/vainilla.png)
 
 ## Tecnologías Utilizadas
 * **Framework:** Flutter (Dart)
