@@ -16,28 +16,23 @@ Este repositorio contiene el código fuente y las evidencias de las pruebas real
 
 ## Pruebas Realizadas
 
-### 1. Vista de Chocolate (Inventario / Selección)
-* **Descripción:** Verificación de la carga y selección de productos bajo la categoría de chocolate en el sistema.
-* **Resultado:** Exitoso.
-* **Evidencia:**  
+# 1. Vista de Chocolate 
+Verificación de la carga y selección de productos bajo la categoría de chocolate en el sistema.  
   ![Chocolate](capturas/chocolate.png)
 
-### 2. Vista de Fresa (Módulo de Transacción)
-* **Descripción:** Pruebas en el flujo de ventas seleccionando variantes de fresa y validando el puntaje o total acumulado.
-* **Resultado:** Exitoso.
-* **Evidencia:**  
+## 2. Vista de Fresa
+Pruebas en el flujo de ventas seleccionando variantes de fresa y validando el puntaje o total acumulado.
+ 
   ![Fresa](capturas/fresa.png)
 
-### 3. Vista de Naranja (Buscador y Catálogo)
-* **Descripción:** Validación de la funcionalidad de la interfaz y la actualización dinámica del catálogo de productos.
-* **Resultado:** Exitoso.
-* **Evidencia:**  
-  ![Naranja](capturas/naranja.png)
+## 3. Vista de Naranja 
+Validación de la funcionalidad de la interfaz y la actualización dinámica del catálogo de productos.
+![Naranja](capturas/naranja.png)
 
 
-## Tecnologías Utilizadas
-* **Framework:** Flutter (Dart)
-* **Base de datos:** SQLite (`sqflite`)
+# Tecnologías Utilizadas
+* *Framework:** Flutter (Dart)
+* Base de datos:** SQLite (`sqflite`)
 ```
 =======
 "# nieves2048" 
