@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pruebas del Sistema - Punto de Venta Dolores
 
 ## Descripción
@@ -33,3 +34,6 @@ Este repositorio contiene el código fuente y las evidencias de las pruebas real
 * **Framework:** Flutter (Dart)
 * **Base de datos:** SQLite (`sqflite`)
 ```
+=======
+"# nieves2048" 
+>>>>>>> 3059c283db317e055c4599c8908042715e61c064
